@@ -25,5 +25,6 @@ TFM/
 │
 ├── core/               # Lógica principal del algoritmo
 ├── data/               # Datos de entrada y ejemplos
+├── app.py              # Lógica de streamlit
 ├── README.md
 └── Simulación ejemplo.mp4
